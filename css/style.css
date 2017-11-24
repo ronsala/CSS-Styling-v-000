@@ -42,5 +42,5 @@ figcaption {
 /* ID selector (apply to one unique elemet per page) */
 
 #logo { /* select elements with id="logo" */
-
+  background-color: aqua;
 }
